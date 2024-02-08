@@ -9,3 +9,4 @@ compressed and portable format.
 ### 6. JPA
 ### 7. DTO pattern
 ### 8. Service layer
+### 9. Aspect oriented programming
